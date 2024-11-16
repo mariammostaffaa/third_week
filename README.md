@@ -32,3 +32,6 @@ Stay Tuned for More!
 I am continuously updating my repository with notes, examples, and practical exercises. Feel free to explore and contribute!
 
 This incredible journey is made possible by the Digital Egypt Pioneers Initiative (DEPI) in collaboration with the Ministry of Communications and Information Technology (MCIT), Egypt and the National Telecommunication Institute (NTI | المعهد القومي للاتصالات).
+
+#digital_egypt_pioneers_initiative
+vulernability analyst/penetraton tester track
